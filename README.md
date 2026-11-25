@@ -1,1 +1,2 @@
+merhaba dünya
 # ilk-defterim
